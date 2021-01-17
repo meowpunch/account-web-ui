@@ -2,7 +2,7 @@
 
 ### INTRODUCTION
 
-I was in charge of partially applying React HS to the existing Django web application. I am new to React JS. I tried to choose a minimum whenever i had to make a choice. It is beacuse it’s too big to study at once.
+I was in charge of partially applying React JS to the existing Django web application. I am new to React JS. I tried to choose a minimum whenever i had to make a choice. It is beacuse it’s too big to study at once.
 
 Mostly, i followed [this site](https://medium.com/@twagner000/django-create-react-app-without-ejecting-958251af362c) to accomplish this project.
 
